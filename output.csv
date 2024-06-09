@@ -1,0 +1,4 @@
+Client SSN,Member SSN,Relationship,Name,Plan,Spouse_Client SSN,Spouse_Member SSN,Spouse_Relationship,Spouse_Name,Spouse_Plan,Child_1_Client SSN,Child_1_Member SSN,Child_1_Relationship,Child_1_Name,Child_1_Plan
+123-45-6789,123-45-6789,Member,John Doe,Gold,987-65-4321,123-45-6789,Spouse,Jane Doe,Gold,654-32-1987,123-45-6789,Child,Jim Doe,Gold
+555-55-5555,555-55-5555,Member,Alice Smith,Silver,111-11-1111,555-55-5555,Spouse,Bob Smith,Silver,333-33-3333,555-55-5555,Child,Charlie Smith,Silver
+222-22-2222,222-22-2222,Member,Eve Johnson,Bronze,,,,,,444-44-4444,222-22-2222,Child,Dan Johnson,Bronze
